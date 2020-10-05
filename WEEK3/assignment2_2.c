@@ -3,7 +3,7 @@ void swapStrings(char **destination, char **source);
 
 int main(){
     char *str1 = "Hello";
-    char *str2 = "World";
+    char *str2 = "BigWorld";
     // define and initialize str1
     // define and initialize str2
 
