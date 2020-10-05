@@ -1,5 +1,10 @@
 ### Hi there 👋
-This repository retains my C programming language assignments.
+It is a function that takes two integers, swaps them, prints the swapped integers inside the function.
+
+
+
+
+
 
 <!--
 **sanansafaraliyev/sanansafaraliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
